@@ -4,6 +4,7 @@
 2）美语入门进行到P28左右；<br>
 3）Java学习到封装附近。<br>
 ## Thinking：<br>
+## Doing:
 Nothing.
 ## Notice:
 浪费时间一天。
